@@ -86,7 +86,7 @@ The website is fully responsive with three main breakpoints:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details **(not a real license)**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) 
 
 ## 📞 Contact
 
