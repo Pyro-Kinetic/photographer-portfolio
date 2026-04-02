@@ -1,9 +1,28 @@
-# Lucy Sherman Photography Portfolio by Christensen Cadeau
-# Hosting link: (https://pyro-kinetic.github.io/photographer-portfolio/)
+<h1 align="center">Lucy Sherman Photography Portfolio</h1>
+<p align="center">
+  <a href="https://pyro-kinetic.github.io/photographer-portfolio/">
+    <img src="https://img.shields.io/badge/Live-Demo-F97068?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
-A responsive photography portfolio website built with HTML, CSS, and JavaScript, featuring a modern and clean design with an interactive user interface.
+<p align="center" style="text-align: center;">
+  <img src="assets/stills/black-camera.jpg" alt="Portfolio Preview">
+</p>
 
-![Portfolio Preview](assets/stills/black-camera.jpg)
+<p align="center">
+  A responsive photography portfolio website built with HTML, CSS, and JavaScript, featuring a modern and clean design with an interactive user interface.
+</p>
+
+## 📂 Project Structure
+
+- `index.html`: The main entry point and home page.
+- `about.html`: Information about the photographer.
+- `contact.html`: Contact form for inquiries.
+- `menu.html`: Mobile-friendly navigation menu.
+- `style.css`: Custom styles and color variables.
+- `assets/`: Directory containing images (`stills`) and animated `gifs`.
+- `user-stories/`: Project documentation and user requirements.
+- `wireframes/`: Design mockups for the portfolio.
 
 ## 🌟 Features
 
@@ -12,10 +31,7 @@ A responsive photography portfolio website built with HTML, CSS, and JavaScript,
 - **Interactive Gallery**: Beautiful image gallery showcasing photography work
 - **Contact Form**: Functional contact form for client inquiries
 - **Social Media Integration**: Direct links to social media profiles
-- **Custom Color Scheme**: Carefully crafted color palette featuring:
-  - Rich Black (#011627)
-  - Bitter Sweet (#F97068)
-  - Orange Web (#FCAB10)
+- **Custom Color Scheme**: Carefully crafted color palette defined in `style.css`.
 
 ## 🛠️ Technologies Used
 
@@ -30,36 +46,36 @@ A responsive photography portfolio website built with HTML, CSS, and JavaScript,
 
 ## 📋 Pages
 
-1. **Home Page (`main.html`)**
+1. **Home Page (`index.html`)**
    - Featured photography work
    - Interactive image gallery
    - Animated GIF elements
 
 2. **About Page (`about.html`)**
-   - Personal introduction
-   - Contact information
-   - Location details
+   - Personal introduction (Lucy Sherman)
+   - Contact information (Email)
+   - Location details (NYC)
 
 3. **Contact Page (`contact.html`)**
-   - Contact form
-   - Social media links
+   - Contact form (powered by Formspree)
+   - Social media links (Instagram, X)
 
 4. **Menu Page (`menu.html`)**
-   - Navigation interface
+   - Navigation interface for mobile and desktop
    - Quick access to all sections
 
 ## 💻 Installation
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Open `main.html` in your preferred browser to view the website.
+3. Open `index.html` in your preferred browser to view the website.
 
 ## 🚀 Usage
 
-- Navigate through the website using the navigation bar or menu
-- View photography work in the gallery section
-- Use the contact form to send inquiries
-- Connect through social media links
+- Navigate through the website using the navigation bar or the menu button
+- View photography work in the gallery section on the Home page
+- Use the contact form to send inquiries via Formspree
+- Connect through social media links in the navigation bar and contact page
 
 ## 📱 Responsive Design
 
@@ -70,11 +86,13 @@ The website is fully responsive with three main breakpoints:
 
 ## 🎨 Color Scheme
 
---rich-black: #011627; 
---bitter-sweet: #f97068; 
---orange-web: #fcab10; 
---bootstrap-info: #54b4d3;
+The project uses a custom color palette defined in `style.css`:
 
+- **Rich Black**: `#011627` (Backgrounds)
+- **Bitter Sweet**: `#F97068` (Primary accents, Buttons)
+- **Orange Web**: `#FCAB10` (Secondary accents, Links)
+- **Bootstrap Info**: `#54B4D3` (Utility buttons)
+- **Fandango**: `#C11F96` (Optional accent)
 
 ## 🤝 Contributing
 
@@ -86,18 +104,15 @@ The website is fully responsive with three main breakpoints:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details **(not a real license)**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-Lucy Sherman - lucysherman@gmail.com **(Not a real email)**
+- **Lucy Sherman** - lucysherman@gmail.com
+- **Christensen Cadeau** - [GitHub Profile](https://github.com/pyro-kinetic)
 
-Project Link: [https://github.com/yourusername/lucy-sherman-portfolio](https://github.com/yourusername/lucy-sherman-portfolio)
+---
 
-## 🙏 Acknowledgments
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Google Fonts](https://fonts.google.com/)
+Developed with ❤️ by [Christensen Cadeau](https://github.com/pyro-kinetic)
 
 
